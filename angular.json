@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "examen-final"
+    }
+  },
+  "defaultProject": "examen-final",
+  "cli": {
+    "analytics": false
+  }
 }
